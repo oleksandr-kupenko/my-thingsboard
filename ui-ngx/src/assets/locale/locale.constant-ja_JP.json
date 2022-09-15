@@ -1501,7 +1501,11 @@
 		"material-icons": "マテリアルアイコン",
 		"show-all": "すべてのアイコンを表示する"
 	},
-	"custom": {
+    "trendz": {
+        "noLicense": "現在、Trendz Analytics のサブスクリプションを持っていません"
+    },
+
+    "custom": {
 		"widget-action": {
 			"action-cell-button": "アクションセルボタン",
 			"row-click": "行のクリック",

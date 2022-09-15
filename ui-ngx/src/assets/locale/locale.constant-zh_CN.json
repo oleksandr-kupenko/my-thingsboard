@@ -2848,5 +2848,8 @@
       "update-timeseries": "更新 Timeseries",
       "value": "价值"
     }
-  }
+  },
+    "trendz": {
+        "noLicense": "您当前没有 Trendz Analytics 订阅"
+    }
 }

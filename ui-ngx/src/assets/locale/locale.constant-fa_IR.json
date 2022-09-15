@@ -1616,6 +1616,9 @@
         "material-icons": "آيکونهاي اجسام",
         "show-all": "نمايش تمام آيکونها"
     },
+    "trendz": {
+        "noLicense": "شما اشتراک فعلی Trendz Analytics را ندارید"
+    },
     "custom": {
         "widget-action": {
             "action-cell-button": "دکمه سلول عملياتي",

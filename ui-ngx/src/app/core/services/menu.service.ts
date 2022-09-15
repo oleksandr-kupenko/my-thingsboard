@@ -345,6 +345,14 @@ export class MenuService {
     sections.push(
       {
         id: guid(),
+        name: 'trendz.trendz',
+        type: 'link',
+        path: '/trendz',
+        icon: 'mdi:trendz',
+        isMdiIcon: true
+      },
+      {
+        id: guid(),
         name: 'widget.widget-library',
         type: 'link',
         path: '/widgets-bundles',

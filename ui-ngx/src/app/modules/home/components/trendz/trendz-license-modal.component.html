@@ -1,0 +1,22 @@
+<div class="trendz-modal">
+  <button class="close-btn" (click)="onClose()">
+    <mat-icon>close</mat-icon>
+  </button>
+  <div class="trendz-modal-body">
+    <p [innerHTML]="content"></p>
+  </div>
+  <div class="trendz-modal-controls">
+    <button
+      class="controls-btn controls-btn-cancel mat-raised-button"
+      (click)="onClose()"
+    >
+      {{ "action.cancel" | translate }}
+    </button>
+    <button
+      class="controls-btn controls-btn-confirm mat-raised-button"
+      (click)="onConfirm()"
+    >
+      {{ "action.update-plan" | translate }}
+    </button>
+  </div>
+</div>

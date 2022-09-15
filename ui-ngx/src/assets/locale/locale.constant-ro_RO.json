@@ -1779,6 +1779,9 @@
         "material-icons": "Material Pictogramă",
         "show-all": "Afişează Toate Pictogramele"
     },
+    "trendz": {
+        "noLicense": "Nu aveți un abonament curent Trendz Analytics."
+    },
     "custom": {
         "widget-action": {
             "action-cell-button": "Acțiune buton celulă",

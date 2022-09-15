@@ -170,6 +170,7 @@ import { RateLimitsListComponent } from '@home/components/profile/tenant/rate-li
 import { RateLimitsComponent } from '@home/components/profile/tenant/rate-limits/rate-limits.component';
 import { RateLimitsTextComponent } from '@home/components/profile/tenant/rate-limits/rate-limits-text.component';
 import { RateLimitsDetailsDialogComponent } from '@home/components/profile/tenant/rate-limits/rate-limits-details-dialog.component';
+import {TrendzLicenseModalComponent} from '@home/components/trendz/trendz-license-modal.component';
 
 @NgModule({
   declarations:
@@ -310,7 +311,8 @@ import { RateLimitsDetailsDialogComponent } from '@home/components/profile/tenan
       RateLimitsListComponent,
       RateLimitsComponent,
       RateLimitsTextComponent,
-      RateLimitsDetailsDialogComponent
+      RateLimitsDetailsDialogComponent,
+      TrendzLicenseModalComponent
     ],
   imports: [
     CommonModule,

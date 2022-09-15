@@ -2590,6 +2590,9 @@
       "white-labeling": "Η εμφάνιση χαρακτηριστικού δεν επιτρέπεται από το σχέδιο εγγραφής σας!"
     }
   },
+    "trendz": {
+        "noLicense": "Δεν έχετε τρέχουσα συνδρομή στο Trendz Analytics."
+    },
   "custom": {
     "widget-action": {
       "action-cell-button": "Κουμπί ενέργειας κελιών",

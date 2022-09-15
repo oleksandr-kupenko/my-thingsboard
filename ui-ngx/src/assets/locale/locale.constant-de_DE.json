@@ -57,7 +57,8 @@
     "download": "Download",
     "next-with-label": "Nächste: {{label}}",
     "read-more": "Mehr dazu",
-    "hide": "Verstecken"
+    "hide": "Verstecken",
+     "update-plan": "Plan aktualisieren"
   },
   "aggregation": {
     "aggregation": "Aggregation",
@@ -1871,6 +1872,9 @@
         "value": "Wert"
     }
   },
+    "trendz": {
+        "noLicense": "Ihre Trendz Analytics-Lizenz ist derzeit inaktiv. Aktualisieren Sie Ihr Abonnement."
+    },
   "icon": {
     "icon": "Symbol",
     "select-icon": "Symbol auswählen",

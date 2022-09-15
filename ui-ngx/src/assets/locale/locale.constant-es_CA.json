@@ -5810,6 +5810,9 @@
         "phone-input-pattern": "Número invàlid. Ha de cumplir el format E.164, ej. {{phoneNumber}}",
         "phone-input-hint": "Número en el format E.164, ej. {{phoneNumber}}"
     },
+    "trendz": {
+        "noLicense": "No teniu la subscripció actual a Trendz Analytics."
+    },
     "custom": {
         "widget-action": {
             "action-cell-button": "Acció botó de cel·la",

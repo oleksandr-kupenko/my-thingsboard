@@ -57,7 +57,8 @@
         "download": "Télécharger",
         "next-with-label": "Suivant: {{label}}",
         "read-more": "En savoir plus",
-        "hide": "Masquer"
+        "hide": "Masquer",
+        "update-plan": "Plan de mise à jour"
     },
     "admin": {
         "base-url": "URL de base",
@@ -2328,5 +2329,8 @@
         "widgets-bundle-file": "Fichier de groupe de widgets",
         "widgets-bundle-required": "Un groupe de widgets est requis.",
         "widgets-bundles": "Groupes de widgets"
+    },
+    "trendz": {
+        "noLicense": "Votre licence Trendz Analytics est actuellement inactive. Mettez à jour votre abonnement."
     }
 }

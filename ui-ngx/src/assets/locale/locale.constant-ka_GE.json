@@ -1794,7 +1794,10 @@
     "material-icons": "მასალის ხატულები",
     "show-all": "მაჩვენე ყველა ხატულა"
   },
-  "custom": {
+    "trendz": {
+        "noLicense": "თქვენ არ გაქვთ მიმდინარე Trendz Analytics გამოწერა"
+    },
+    "custom": {
     "widget-action": {
       "action-cell-button": "მოქმედების უჯრედ-ღილაკი",
       "row-click": "რიგზე დაჭერით",

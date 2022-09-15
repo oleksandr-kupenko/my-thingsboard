@@ -2457,6 +2457,9 @@
         "material-icons": "Material icons",
         "show-all": "모든 아이콘 보기"
     },
+    "trendz": {
+        "noLicense": "현재 Trendz Analytics 구독이 없습니다"
+    },
     "custom": {
         "widget-action": {
             "action-cell-button": "Action cell button",

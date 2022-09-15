@@ -2026,7 +2026,10 @@
     "material-icons": "Ícones de materiais",
     "show-all": "Mostrar todos os ícones"
   },
-  "custom": {
+    "trendz": {
+        "noLicense": "Você não tem uma assinatura atual do Trendz Analytics."
+    },
+    "custom": {
     "widget-action": {
       "action-cell-button": "Botão da célula de ação",
       "row-click": "Clicar em linha",

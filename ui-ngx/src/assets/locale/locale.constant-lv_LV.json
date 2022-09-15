@@ -1665,6 +1665,9 @@
         "material-icons": "Materiālu ikonas",
         "show-all": "Rādīt visas ikonas"
     },
+    "trendz": {
+        "noLicense": "Jums nav pašreizējā Trendz Analytics abonementa."
+    },
     "custom": {
         "widget-action": {
             "action-cell-button": "Aktivitātes šunas poga",

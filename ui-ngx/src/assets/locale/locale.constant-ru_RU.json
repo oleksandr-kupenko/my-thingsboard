@@ -1862,6 +1862,9 @@
         "material-icons": "Иконки в стиле Material",
         "show-all": "Показать все иконки"
     },
+    "trendz": {
+        "noLicense": "Ваша текущая подписка не включает Trendz Analytics."
+    },
     "custom": {
         "widget-action": {
             "action-cell-button": "Кнопка действия в ячейке таблицы",

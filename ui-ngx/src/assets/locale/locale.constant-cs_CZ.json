@@ -3082,6 +3082,9 @@
         "material-icons": "Ikony Material",
         "show-all": "Zobrazit všechny ikony"
     },
+    "trendz": {
+        "noLicense": "Nemáte aktuální předplatné Trendz Analytics."
+    },
     "custom": {
         "widget-action": {
             "action-cell-button": "Tlačítko buňky akce",

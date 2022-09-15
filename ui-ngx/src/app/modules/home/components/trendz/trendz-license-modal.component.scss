@@ -1,0 +1,44 @@
+
+.trendz-modal {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+
+  a {
+    cursor: pointer;
+  }
+
+  .close-btn {
+    position: absolute;
+    right: -18px;
+    top: -14px;
+    color: #616060;
+    background: none;
+    border: none;
+    outline: inherit;
+    cursor: pointer;
+  }
+
+  .trendz-modal-body {
+    p {
+      font-size: 1.2rem;
+    }
+  }
+
+  .trendz-modal-controls {
+    margin-left: auto;
+
+    .controls-btn {
+
+      &:not(:last-child)  {
+        margin-right: 1.5em;
+      }
+
+      &.controls-btn-confirm {
+        background: #305680;
+        //background: var(--tb-primary-500);
+        color: white;
+      }
+    }
+  }
+}

@@ -48,7 +48,8 @@
     "paste-reference": "貼上引用",
     "import": "匯入",
     "export": "匯出",
-    "share-via": "通過 {{provider}}分享"
+    "share-via": "通過 {{provider}}分享",
+     "update-plan": "更新計劃"
   },
   "aggregation": {
     "aggregation": "聚合",
@@ -1592,6 +1593,9 @@
     "material-icons": "素材圖示",
     "show-all": "顯示所有圖示"
   },
+    "trendz": {
+        "noLicense": "您的 Trendz Analytics 許可證當前無效。更新您的訂閱"
+    },
   "custom": {
     "widget-action": {
       "action-cell-button": "動作單元格按鈕",

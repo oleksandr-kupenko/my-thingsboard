@@ -53,7 +53,9 @@
         "discard-changes": "Скасувати зміни",
         "move": "Перемістити",
         "select": "Вибрати",
-        "done": "Завершено"
+        "done": "Завершено",
+        "subscribe": "Підписатися",
+        "update-plan": "Оновити план"
     },
     "aggregation": {
         "aggregation": "Агрегація",
@@ -365,6 +367,9 @@
         "add-widget-to-dashboard": "Додати віджет до інформаційної панелі",
         "selected-attributes": "{ count, plural, 1 {1 attribute} other {# attributes} } selected ...вибрані вибрати",
         "selected-telemetry": "{ count, plural, 1 {1 telemetry unit} other {# telemetry units} } selected"
+    },
+    "trendz": {
+        "noLicense": "Ваша ліцензія Trendz Analytics наразі неактивна. Оновіть свою підписку."
     },
     "audit-log": {
         "audit": "Операція",

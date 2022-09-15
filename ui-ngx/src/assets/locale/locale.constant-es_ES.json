@@ -61,7 +61,8 @@
         "done": "Terminado",
         "print": "Imprimir",
         "restore": "Restaurar",
-        "confirm": "Confirmar"
+        "confirm": "Confirmar",
+        "update-plan": "Actualizar plan"
     },
     "aggregation": {
         "aggregation": "Agrupación",
@@ -4560,6 +4561,9 @@
         "phone-input-validation": "El número es inválido o erróneo",
         "phone-input-pattern": "Número inválido. Debe cumplir el formato E.164, ej. {{phoneNumber}}",
         "phone-input-hint": "Número en el formato E.164, ej. {{phoneNumber}}"
+    },
+    "trendz": {
+        "noLicense": "Su licencia de Trendz Analytics está actualmente inactiva. Actualice su suscripción."
     },
     "custom": {
         "widget-action": {

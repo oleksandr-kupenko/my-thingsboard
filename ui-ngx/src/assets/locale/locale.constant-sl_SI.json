@@ -2457,7 +2457,10 @@
     "material-icons": "Ikone materiala",
     "show-all": "Pokaži vse ikone"
   },
-  "custom": {
+    "trendz": {
+        "noLicense": "Nimate trenutne naročnine na Trendz Analytics."
+    },
+    "custom": {
     "widget-action": {
       "action-cell-button": "Gumb akcijske celice",
       "row-click": "Klik na vrstico",
