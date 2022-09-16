@@ -10,13 +10,6 @@ import {TranslateService} from '@ngx-translate/core';
 export class TrendzLicenseModalComponent implements OnInit {
   public content!: string;
 
-  public test = 'widget.widget-library';
-
-  entityTranslations = {
-    noEntities: 'audit-log.no-audit-logs-prompt',
-    search: 'audit-log.search'
-  };
-
   @HostListener('document:keydown.escape', ['$event']) onKeydownHandler(event: KeyboardEvent) {
     if (event.key === "Escape") {
       this.dialogRef.close();
